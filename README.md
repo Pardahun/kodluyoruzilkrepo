@@ -44,7 +44,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 
-[MIT](https://github.com/pardahun/kodluyoruzilkrepo/blob/main/license)
+[MIT](https://github.com/Pardahun/kodluyoruzilkrepo/blob/main/LICENSE)
 
 
 
